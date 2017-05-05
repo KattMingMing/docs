@@ -1,0 +1,4 @@
+{
+    "ui.defaults.mode" : "preview",
+    "ui.defaults.file" : "README.md"
+}
