@@ -1,4 +1,4 @@
 {
-    "ui.defaults.mode" : "preview",
-    "ui.defaults.file" : "README.md"
+    "ui.defaultFile.mode" : "preview",
+    "ui.defaultFile.name" : "README.md"
 }
